@@ -15,3 +15,11 @@ This repository contains a mobile application built using Flutter, a popular cro
 ![https://github.com/VitorCarvalho67/API-GO](https://github.com/VitorCarvalho67/API-GO)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+## Status
+
+**Work in Progress (WIP)**
+
+This project is actively being developed. New features, enhancements, and improvements are regularly added. While it is functional, it may still have some rough edges. Feedback and contributions are welcome.
+
+Please check back for updates and improvements as the project evolves.
