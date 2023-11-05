@@ -1,16 +1,10 @@
-# flutter_app
+# NitorXK
 
-A new Flutter project.
+<div align="center">
+  <img src="https://github.com/VitorCarvalho67/NitorXK/assets/102667323/61db6a22-35be-49e8-95c5-9a08dfc7c161" />
+</div>
 
-## Getting Started
+This repository contains a mobile application built using Flutter, a popular cross-platform framework for creating beautiful and natively compiled applications. The app features initial screens that provide a seamless user experience, a user login interface for secure authentication, and a user profile page to display personalized information.
 
-This project is a starting point for a Flutter application.
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
