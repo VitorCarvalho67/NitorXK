@@ -36,9 +36,11 @@ https://github.com/VitorCarvalho67/API-GO
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Screenshots:
+<div sytle="display: flex; flex-direction: row; justify-content: space-between;">
 <img style="margin: 10px; height: 400px;" src="public/Screenshot_273.png" />
 <img style="margin: 10px; height: 400px;" src="public/Screenshot_274.png" />
 <img style="margin: 10px; height: 400px;" src="public/Screenshot_275.png" />
+</div>
 
 ## Status:
 
