@@ -18,7 +18,7 @@ class _LoginState extends State<Login> {
 
     try {
       final response = await http.post(
-        Uri.parse('https://c415-190-115-66-219.ngrok-free.app/login'), // Substitua pelo seu endereço da API
+        Uri.parse('https://eab6-190-115-67-177.ngrok-free.app/login'), // Substitua pelo seu endereço da API
         headers: <String, String>{
           'Content-Type': 'application/json',
         },
